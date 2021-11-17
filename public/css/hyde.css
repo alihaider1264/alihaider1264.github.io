@@ -102,6 +102,7 @@ a.sidebar-nav-item:focus {
 /* Sidebar nav small */
 .sidebar-nav-small {
   margin-bottom: 1rem;
+  font-size=2pt;
 }
 .sidebar-nav-item-small {
   display: block;
