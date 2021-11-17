@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Projects
+title:            projects
 tagline:          'Ali Haider'
-description:      'Forked: <a href="https://github.com/poole/hyde" target="_blank">hyde</a>.'
+description:      'forked: <a href="https://github.com/poole/hyde" target="_blank">hyde</a>.'
 url:              https://alihaider1264.github.io
 baseurl:          /
 
